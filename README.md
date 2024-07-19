@@ -18,6 +18,9 @@
 ###
 
 <div align="left">
+
+  <a href="https://www.go.dev" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="go" width="40" height="40" style="object-fit: contain;" /></a>
+<a href="https://www.go.dev" target="_blank" rel="noreferrer"><img src="https://binmile.com/wp-content/uploads/2022/12/fiber-icon.png" alt="fiber" width="40" heigth="40" /></a>
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -49,8 +52,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/PatricioRios/PatricioRios/output/snake.svg" alt="Snake animation" />
-
-###
